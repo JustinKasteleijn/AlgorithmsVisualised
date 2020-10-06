@@ -1,5 +1,5 @@
 import pygame
-from .color import Color
+from datastructures.color import Color
 
 
 class Node:

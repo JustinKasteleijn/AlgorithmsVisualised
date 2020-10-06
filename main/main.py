@@ -1,6 +1,5 @@
-from astar.dijkstra import dijkstra
-from astar.grid import *
 from astar.a_star import astar
+from datastructures.grid import *
 
 WIDTH = 800
 WIN = pygame.display.set_mode((WIDTH, WIDTH))

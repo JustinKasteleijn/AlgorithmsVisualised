@@ -1,6 +1,6 @@
 import pygame
-from astar.node import Node
-from astar.color import Color
+from datastructures.node import Node
+from datastructures.color import Color
 
 
 def make_grid(rows, width):
