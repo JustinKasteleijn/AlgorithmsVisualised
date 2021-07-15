@@ -1,7 +1,7 @@
 import pygame
 from queue import PriorityQueue
 
-from astar.a_star import reconstruct_path, h
+from astar.a_star import reconstruct_path
 
 
 def dijkstra(draw, grid, start, end):
